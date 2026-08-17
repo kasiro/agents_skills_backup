@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "last_updated": "2026-07-14T00:00:00",
+  "stats": {
+    "total": 40,
+    "applied": 17,
+    "saved": 8,
+    "rejected": 15,
+    "interested": 0
+  },
+  "jobs": [
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134774171",
+      "title": "Технический специалист",
+      "company": "ООО Сенсорные технологии",
+      "salary": "80 000 – 95 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Требуется опыт 1-3 года, не подходит",
+      "notes": null
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134405518",
+      "title": "Начинающий специалист поддержки (чаты)",
+      "company": "ООО ГРУЗМАСТЕР",
+      "salary": "от 45 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "applied",
+      "user_response": "Сэр уже откликался ранее",
+      "notes": "удалёнка",
+      "response_status": "Разбирает 99% откликов"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/131277503",
+      "title": "Бортпроводник в г. Новосибирск",
+      "company": "S7 Group",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Компания в исключениях",
+      "notes": "аэропорт Толмачёво"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134469155",
+      "title": "Специалист по обработке документации",
+      "company": "FESCO",
+      "salary": "от 66 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Компания в исключениях",
+      "notes": null
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134324968",
+      "title": "Специалист по документообороту",
+      "company": "ООО БЭСТ",
+      "salary": "100 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "пос. Озёрный, далеко от Горского",
+      "notes": "пос. Озёрный — далеко от Горского"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/132783957",
+      "title": "Агент по регистрации и контролю посадки",
+      "company": "S7 Group",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Компания в исключениях",
+      "notes": null
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134233859",
+      "title": "Администратор компьютерного клуба",
+      "company": "КиберПрайд",
+      "salary": "48 000 – 54 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "applied",
+      "user_response": "Сэр уже откликался ранее",
+      "notes": "нужно узнать расположение метро",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134491855",
+      "title": "Бухгалтер",
+      "company": "ООО Энергохолдинг",
+      "salary": "85 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Требуется опыт, не подходит",
+      "notes": null
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134562404",
+      "title": "Упаковщик сладких наборов",
+      "company": "ИП Скворцов Артём Олегович",
+      "salary": "от 160 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Нет адреса, не подходит",
+      "notes": "Работодатель ИП"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134465456",
+      "title": "Начальник управления поставок",
+      "company": "АО Стройтранснефтегаз",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Компания в исключениях",
+      "notes": null
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/132148088",
+      "title": "Специалист call-центра (чат)",
+      "company": "S7 Group",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Компания в исключениях",
+      "notes": null
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134439749",
+      "title": "Помощник логистического отдела",
+      "company": "Поляева Елена Константиновна",
+      "salary": "96 000 – 114 000 ₽",
+      "offered_at": "2026-07-03T09:57:00",
+      "status": "rejected",
+      "user_response": "Заельцовский — далеко от Горского, не подходит",
+      "notes": "Заельцовский р-н"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134635907",
+      "title": "Сборщик заказов интернет-магазина",
+      "company": "Job development (ИП Козлова Ольга Александровна)",
+      "salary": "110 000 – 250 000 ₽",
+      "status": "applied",
+      "applied_at": "2026-07-03T13:10:00",
+      "response_status": "отправлен",
+      "source": "hh_apply",
+      "parsed_at": "2026-07-03T13:10:00",
+      "notes": "Автоотклик через hh_apply.py"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134779979",
+      "title": "Работник на склад Яндекс Лавка",
+      "company": "ИП Новикова Галина Васильевна",
+      "salary": "от 170 000 ₽",
+      "status": "applied",
+      "applied_at": "2026-07-03T13:12:00",
+      "response_status": "отправлен",
+      "source": "hh_apply",
+      "parsed_at": "2026-07-03T13:12:00",
+      "notes": "Автоотклик через hh_apply.py"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/133779480",
+      "title": "Упаковщик на склад",
+      "company": "RWB (Wildberries & Russ)",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "rejected",
+      "user_response": "Внешняя анкета Wildberries, не подходит",
+      "notes": "Толмачёвский сельсовет"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134771144",
+      "title": "Кладовщик",
+      "company": "100ДЕЛ",
+      "salary": "50 000 – 60 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "Первомайский р-н"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134169315",
+      "title": "Кладовщик/кладовщица",
+      "company": "RWB (Wildberries & Russ)",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "rejected",
+      "user_response": "Внешняя анкета Wildberries, не подходит",
+      "notes": "Толмачёвский сельсовет"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/133779221",
+      "title": "Кладовщик",
+      "company": "RWB (Wildberries & Russ)",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "rejected",
+      "user_response": "Внешняя анкета Wildberries, не подходит",
+      "notes": "Толмачёвский сельсовет"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/133779112",
+      "title": "Сотрудник склада",
+      "company": "RWB (Wildberries & Russ)",
+      "salary": "не указана",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "rejected",
+      "user_response": "Внешняя анкета Wildberries, не подходит",
+      "notes": "Толмачёвский сельсовет, подработка"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134649912",
+      "title": "Упаковщик заказов на мини-склад",
+      "company": "ООО Каскад",
+      "salary": "от 160 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "applied",
+      "applied_at": "2026-07-03T14:02:31",
+      "response_status": "отправлен",
+      "notes": ""
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134201710",
+      "title": "Упаковщик",
+      "company": "Warmex",
+      "salary": "65 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "ДП Кудряшовский",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134816976",
+      "title": "Начинающий специалист по сканированию и сборке заказов",
+      "company": "ООО ВИМАРТ",
+      "salary": "3 400 – 3 900 ₽/смена",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "ежедневные выплаты"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134616690",
+      "title": "Упаковщик греческих йогуртов",
+      "company": "ООО Казаков",
+      "salary": "от 160 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": ""
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134711812",
+      "title": "Фасовщик",
+      "company": "Topframe Recruitment",
+      "salary": "3 300 – 5 000 ₽/смена",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "пос. Садовый"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134428626",
+      "title": "Упаковщик / Распаковщик заказов (Помощник)",
+      "company": "ИП Иванов Мирон Андреевич",
+      "salary": "60 000 – 80 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "applied",
+      "applied_at": "2026-07-03T14:05:00",
+      "response_status": "отправлен",
+      "notes": "Автоотклик через hh_apply.py"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134747828",
+      "title": "Помощник на выдачу готовых заказов в Кафе",
+      "company": "ИП Пастухов Владимир Юрьевич",
+      "salary": "от 220 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "applied",
+      "applied_at": "2026-07-03T14:05:00",
+      "response_status": "отправлен",
+      "notes": "Автоотклик через hh_apply.py"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134709128",
+      "title": "Работник склада",
+      "company": "ФАРМАКОПЕЙКА",
+      "salary": "от 50 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "Калининский р-н"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134690582",
+      "title": "Исполнитель в логистику",
+      "company": "ИП Семененко Константин Сергеевич",
+      "salary": "94 000 – 118 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "rejected",
+      "notes": "В архиве с 4 июля 2026"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134638933",
+      "title": "Упаковщик",
+      "company": "Прачечная Лермонтов",
+      "salary": "от 67 500 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "Дзержинский р-н"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134769354",
+      "title": "Работник склада в федеральную сеть «ЛЕНТА»",
+      "company": "Воксис. Кадровые Решения",
+      "salary": "100 000 – 123 000 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "applied",
+      "applied_at": "2026-07-03T14:02:31",
+      "response_status": "отправлен",
+      "notes": "Толмачёво"
+    },
+    {
+      "url": "https://berdsk.hh.ru/vacancy/134209382",
+      "title": "Сборщик заказов КУПЕР",
+      "company": "НОВАЯ РАБОТА",
+      "salary": "86 137 – 121 880 ₽",
+      "offered_at": "2026-07-03T14:02:00",
+      "status": "saved",
+      "notes": "раз в неделю"
+    },
+    {
+      "url": "https://hh.ru/vacancy/134469555",
+      "title": "Упаковщик на производство",
+      "company": "GSR РАБОТА",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://hh.ru/vacancy/134242267",
+      "title": "Упаковщики/фасовщики",
+      "company": "Наш Штат (ИП Сошкин Сергей Николаевич)",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://hh.ru/vacancy/133984154",
+      "title": "Курьер заказов",
+      "company": "Угольников Максим Сергеевич",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://hh.ru/vacancy/134031497",
+      "title": "Комплектовщик",
+      "company": "Персонал+",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Разбирает 83% откликов"
+    },
+    {
+      "url": "https://hh.ru/vacancy/133542846",
+      "title": "Комплектовщик на склад",
+      "company": "Fix Price. РЦ",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Разбирает 80% откликов"
+    },
+    {
+      "url": "https://hh.ru/vacancy/134255075",
+      "title": "Кладовщик-комплектовщик",
+      "company": "Petshopru",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://hh.ru/vacancy/134079207",
+      "title": "Сборщик заказов на Склад",
+      "company": "Про Вакансии (ИП Клепиков Сергей Михайлович)",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://hh.ru/vacancy/131898292",
+      "title": "Менеджер в офис",
+      "company": "Ростелеком",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Собеседование"
+    },
+    {
+      "url": "https://hh.ru/vacancy/132055299",
+      "title": "Комплектовщик/сборщик товаров (склад категории А+)",
+      "company": "Новотек",
+      "salary": "—",
+      "offered_at": "",
+      "status": "applied",
+      "response_status": "Разбирает 98% откликов"
+    }
+  ]
+}

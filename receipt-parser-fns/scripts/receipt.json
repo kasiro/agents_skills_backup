@@ -1,0 +1,355 @@
+{
+  "code": 1,
+  "first": 1,
+  "data": {
+    "json": {
+      "messageFiscalSign": 9.297209590225971e+18,
+      "code": 3,
+      "fiscalDocumentFormatVer": 4,
+      "fiscalDriveNumber": "7380440902999204",
+      "kktRegId": "0008722525014416    ",
+      "userInn": "2310031475  ",
+      "fiscalDocumentNumber": 45544,
+      "dateTime": "2026-07-31T22:38:00",
+      "fiscalSign": 1512009088,
+      "shiftNumber": 142,
+      "requestNumber": 523,
+      "operationType": 1,
+      "totalSum": 191300,
+      "fnsUrl": "www.nalog.gov.ru",
+      "items": [
+        {
+          "itemsQuantityMeasure": 0,
+          "productCodeNew": {
+            "ean13": {
+              "rawProductCode": "4607164999087",
+              "productIdType": 3,
+              "gtin": "4607164999087",
+              "sernum": ""
+            }
+          },
+          "name": "МАГНИТ Хлеб Отрубной нарезанный п/уп 300 г (Х",
+          "price": 3999,
+          "quantity": 1,
+          "sum": 3999,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 1
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "productCodeNew": {
+            "ean13": {
+              "rawProductCode": "4600680025568",
+              "productIdType": 3,
+              "gtin": "4600680025568",
+              "sernum": ""
+            }
+          },
+          "name": "ХРУТКА Шок шар обог кальцием 650г ф/п(Сириал ",
+          "price": 21999,
+          "quantity": 1,
+          "sum": 21999,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 1
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "gs1m": {
+              "rawProductCode": "0104607029230089215haAXD",
+              "productIdType": 6,
+              "gtin": "04607029230089",
+              "sernum": "5haAXD"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "БАРС Скумбрия в томат соусе 250г ж/б(Кал",
+          "price": 16999,
+          "quantity": 1,
+          "sum": 16999,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 33,
+          "checkingProdInformationResult": 15
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "gs1m": {
+              "rawProductCode": "0104607029230089215hac(<",
+              "productIdType": 6,
+              "gtin": "04607029230089",
+              "sernum": "5hac(<"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "БАРС Скумбрия в томат соусе 250г ж/б(Кал",
+          "price": 16999,
+          "quantity": 1,
+          "sum": 16999,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 33,
+          "checkingProdInformationResult": 15
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "productCodeNew": {
+            "undefined": {
+              "rawProductCode": "2040000542120",
+              "productIdType": 1,
+              "gtin": "",
+              "sernum": ""
+            }
+          },
+          "name": "МАГНИТ Пакет-майка большой 15кг",
+          "price": 1099,
+          "quantity": 1,
+          "sum": 1099,
+          "nds": 11,
+          "paymentType": 4,
+          "productType": 1
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "gs1m": {
+              "rawProductCode": "0104600682051329215seUZVQtWGjib",
+              "productIdType": 6,
+              "gtin": "04600682051329",
+              "sernum": "5seUZVQtWGjib"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "FLASH UP Напиток энергет б/а Blueberry D",
+          "price": 8999,
+          "quantity": 1,
+          "sum": 8999,
+          "nds": 11,
+          "paymentType": 4,
+          "productType": 31,
+          "checkingProdInformationResult": 15
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "gs1m": {
+              "rawProductCode": "0104600682051329215\"f;SKsiNu=Pw",
+              "productIdType": 6,
+              "gtin": "04600682051329",
+              "sernum": "5\"f;SKsiNu=Pw"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "FLASH UP Напиток энергет б/а Blueberry D",
+          "price": 8999,
+          "quantity": 1,
+          "sum": 8999,
+          "nds": 11,
+          "paymentType": 4,
+          "productType": 31,
+          "checkingProdInformationResult": 15
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "gs1m": {
+              "rawProductCode": "0104690228027154215C&j9U",
+              "productIdType": 6,
+              "gtin": "04690228027154",
+              "sernum": "5C&j9U"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "ДОМИК В ДЕРЕВНЕ Молоко паст 2,5% 1,4л пл",
+          "price": 15799,
+          "quantity": 1,
+          "sum": 15799,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 33,
+          "checkingProdInformationResult": 15
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "productCodeNew": {
+            "ean13": {
+              "rawProductCode": "8801043018470",
+              "productIdType": 3,
+              "gtin": "8801043018470",
+              "sernum": ""
+            }
+          },
+          "name": "NONGSHIM Лапша Шин Рамен Toomba ост сыр/сли б",
+          "price": 19999,
+          "quantity": 2,
+          "sum": 39998,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 1
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "productCodeNew": {
+            "ean13": {
+              "rawProductCode": "4607065580728",
+              "productIdType": 3,
+              "gtin": "4607065580728",
+              "sernum": ""
+            }
+          },
+          "name": "ДОШИРАК Лапша рамен с сыром 110г флоупак (ДОШ",
+          "price": 9299,
+          "quantity": 2,
+          "sum": 18598,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 1
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "gs1m": {
+              "rawProductCode": "0104690228109959215Ej:FQ",
+              "productIdType": 6,
+              "gtin": "04690228109959",
+              "sernum": "5Ej:FQ"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "ДОМИК В ДЕРЕВНЕ Сметана 15% 450г пл/ст(В",
+          "price": 14499,
+          "quantity": 1,
+          "sum": 14499,
+          "nds": 2,
+          "paymentType": 4,
+          "productType": 33,
+          "checkingProdInformationResult": 15
+        },
+        {
+          "itemsQuantityMeasure": 0,
+          "itemsIndustryDetails": [
+            {
+              "idFoiv": "030",
+              "foundationDocDateTime": "21.11.2023",
+              "foundationDocNumber": "1944",
+              "industryPropValue": "UUID=2599d00d-1efb-454f-bd87-38851a64f5b0&Time=1785512293879"
+            }
+          ],
+          "productCodeNew": {
+            "kmk": {
+              "rawProductCode": "010462008114683921J_I<lN2",
+              "productIdType": 10,
+              "gtin": "04620081146839",
+              "sernum": "J_I<lN2"
+            }
+          },
+          "labelCodeProcesMode": 0,
+          "name": "МАЛЬБОРО Сигареты Арома Фреш МРЦ234(ФМ):",
+          "price": 23400,
+          "quantity": 1,
+          "sum": 23400,
+          "nds": 11,
+          "paymentType": 4,
+          "productType": 31,
+          "checkingProdInformationResult": 15
+        }
+      ],
+      "cashTotalSum": 191300,
+      "ecashTotalSum": 0,
+      "prepaidSum": 0,
+      "creditSum": 0,
+      "provisionSum": 0,
+      "nds10": 13535,
+      "amountsReceiptNds": {
+        "amountsNds": [
+          {
+            "nds": 11,
+            "ndsSum": 7664
+          }
+        ]
+      },
+      "appliedTaxationType": 1,
+      "operator": "Продавец Фурсова",
+      "retailPlaceAddress": "630032, Новосибирская обл, Новосибирск г, Планировочная ул, дом № 58,  б",
+      "retailPlace": "Магазин  Магнит  Шрифт",
+      "checkingLabeledProdResult": 0,
+      "user": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАНДЕР\"",
+      "region": "54",
+      "numberKkt": "00106220250866",
+      "redefine_mask": 2,
+      "metadata": {
+        "id": 6467823656053748480,
+        "ofdId": "ofd26",
+        "receiveDate": "2026-07-31T15:38:51Z",
+        "subtype": "receipt",
+        "address": "630032,Россия,Новосибирская область,город Новосибирск г.о.,,Новосибирск г,,Планировочная ул,,Дом 58 б,,,,"
+      }
+    },
+    "html": "<table class=\"b-check_table table\"><tbody><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАНДЕР\"</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">630032, Новосибирская обл, Новосибирск г, Планировочная ул, дом № 58,  б</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">ИНН 2310031475  </td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">&nbsp;</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">31.07.2026 22:38</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Чек № 523</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Смена № 142</td></tr><tr class=\"b-check_vblock-middle b-check_center\"><td colspan=\"5\">Кассир Продавец Фурсова</td></tr><tr class=\"b-check_vblock-last b-check_center\"><td colspan=\"5\">Приход</td></tr><tr><td><strong>№</strong></td><td><strong>Название</strong></td><td><strong>Цена</strong></td><td><strong>Кол.</strong></td><td><strong>Сумма</strong></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>1</td><td>МАГНИТ Хлеб Отрубной нарезанный п/уп 300 г (Х</td><td>39.99</td><td>1</td><td>39.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>2</td><td>ХРУТКА Шок шар обог кальцием 650г ф/п(Сириал </td><td>219.99</td><td>1</td><td>219.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>3</td><td>БАРС Скумбрия в томат соусе 250г ж/б(Кал</td><td>169.99</td><td>1</td><td>169.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>4</td><td>БАРС Скумбрия в томат соусе 250г ж/б(Кал</td><td>169.99</td><td>1</td><td>169.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>5</td><td>МАГНИТ Пакет-майка большой 15кг</td><td>10.99</td><td>1</td><td>10.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 22%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>6</td><td>FLASH UP Напиток энергет б/а Blueberry D</td><td>89.99</td><td>1</td><td>89.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 22%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>7</td><td>FLASH UP Напиток энергет б/а Blueberry D</td><td>89.99</td><td>1</td><td>89.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 22%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>8</td><td>ДОМИК В ДЕРЕВНЕ Молоко паст 2,5% 1,4л пл</td><td>157.99</td><td>1</td><td>157.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>9</td><td>NONGSHIM Лапша Шин Рамен Toomba ост сыр/сли б</td><td>199.99</td><td>2</td><td>399.98</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>10</td><td>ДОШИРАК Лапша рамен с сыром 110г флоупак (ДОШ</td><td>92.99</td><td>2</td><td>185.98</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>11</td><td>ДОМИК В ДЕРЕВНЕ Сметана 15% 450г пл/ст(В</td><td>144.99</td><td>1</td><td>144.99</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 10%</td><td></td></tr><tr class=\"b-check_vblock-first b-check_item\"><td>12</td><td>МАЛЬБОРО Сигареты Арома Фреш МРЦ234(ФМ):</td><td>234.00</td><td>1</td><td>234.00</td></tr><tr class=\"b-check_vblock-last b-check_item\"><td></td><td colspan=\"3\">НДС со ставкой 22%</td><td></td></tr><tr class=\"b-check_vblock-first\"><td colspan=\"3\" class=\"b-check_itogo\">ИТОГО:</td><td></td><td class=\"b-check_itogo\">1913.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">Наличные</td><td></td><td>1913.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">Карта</td><td></td><td>0.00</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">НДС итога чека со ставкой 10%</td><td></td><td>135.35</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"3\">НДС итога чека со ставкой 22%</td><td></td><td>76.64</td></tr><tr class=\"b-check_vblock-last\"><td colspan=\"5\">ВИД НАЛОГООБЛОЖЕНИЯ: ОСН</td></tr><tr><td colspan=\"5\">Место расчета: Магазин  Магнит  Шрифт</td></tr><tr class=\"b-check_vblock-first\"><td colspan=\"5\">РЕГ.НОМЕР ККТ: 0008722525014416    </td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ЗАВОД. №: </td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФН: 7380440902999204</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФД: 45544</td></tr><tr class=\"b-check_vblock-middle\"><td colspan=\"5\">ФПД#: 1512009088</td></tr><tr class=\"b-check_vblock-last\"><td colspan=\"5\" class=\"b-check_center\"><img src=\"/qrcode/generate?text=t%3D20260731T2238%26s%3D1913.00%26fn%3D7380440902999204%26i%3D45544%26fp%3D1512009088%26n%3D1\" alt=\"QR код чека\" width=\"35%\" loading=\"lazy\" decoding=\"async\"></td></tr></tbody></table>",
+    "pdfurl": "https://proverkacheka.com/check/38987761-4cc2a35d?format=pdf&fp=1512009088"
+  },
+  "request": {
+    "qrurl": "",
+    "qrfile": "",
+    "qrraw": "",
+    "manual": {
+      "fn": "7380440902999204",
+      "fd": "45544",
+      "fp": "1512009088",
+      "check_time": "20260731T2238",
+      "type": "1",
+      "sum": "1913.00"
+    }
+  }
+}
