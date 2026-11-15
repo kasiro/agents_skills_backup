@@ -20,6 +20,38 @@
 | **Проверить результат шага** | **CYCLE 2.5 → Verify (таблица)** (autonomous-execution.md) |
 | **Post-mortem задачи** | **CYCLE 2.5 → Post-execution Reflection** (autonomous-execution.md) |
 | **Понять уверенность** | **CYCLE 1.5 → Confidence Check → Confirm** (task-intake.md) |
+| **Прошлые сессии («делал ли я…», «что решали про X»)** | **recall через `execute`** → раздел «Recall» ниже |
+
+## Recall — поиск по прошлым сессиям
+
+Плагин `recall` (`~/.config/opencode/plugins/recall/`) даёт 3 инструмента. Вызываются **только внутри `execute`** — прямым tool-вызовом недоступны.
+
+| Инструмент | Что делает | Параметры |
+|------------|-----------|-----------|
+| `tools.recall_list` | последние сессии текущей директории | `limit` (по умолчанию 10), `includeChildren` (по умолчанию false) |
+| `tools.recall_search` | поиск сессий по заголовку и агенту | `query` (обязателен), `limit` (10), `agent` (опционально) |
+| `tools.recall_read` | сообщения конкретной сессии | `session_id` (обязателен), `limit` (не указан = все), `role` = user/assistant/system |
+
+**Когда использовать:**
+- «А делал ли я когда-то…», «что мы решали про X», «как тогда настроили Y»
+- Нужен прошлый конфиг/команда/решение, которого нет в memory blocks
+- Memory blocks ответа не дали, но тема явно обсуждалась ранее
+
+**Когда НЕ использовать:** тема ещё в текущем контексте; факт есть в memory blocks (они всегда в промпте — это дешевле).
+
+**Примеры (внутри `execute`):**
+
+```javascript
+const found = await tools.recall_search({ query: "waybar", limit: 5 })
+const recent = await tools.recall_list({ limit: 20, includeChildren: false })
+const msgs = await tools.recall_read({ session_id: "ses_abc123", limit: 20, role: "user" })
+```
+
+**Ограничения:**
+- `list` и `search` видят только **текущую директорию** (`ctx.location.directory`) — сессии других проектов не находятся.
+- `search` ищет **только по заголовку и агенту**, не по содержимому сообщений. Нужен факт из середины диалога → сначала `list`/`search` за ID, затем `recall_read`.
+- `limit` по умолчанию 10; в `search` просматриваются до 100 последних сессий, затем обрезка по `limit`.
+- `recall_read` без `limit` отдаёт все сообщения, с `limit` — **последние** N. Текст каждого сообщения обрезается до 200 символов.
 
 ## Навигация по протоколам
 

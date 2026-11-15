@@ -58,6 +58,7 @@ PLAN (todowrite из subtasks, топосортировка) → EXECUTE & VERIF
 | Автономное выполнение (medium+) | CYCLE 2.5 → references/autonomous-execution.md |
 | Старт/конец сессии | CYCLE 3 → references/cycle3.md |
 | Выбор инструмента / что делать | Decision Matrix → references/decision-matrix.md |
+| Поиск по прошлым сессиям (recall) | references/decision-matrix.md → раздел «Recall» |
 | Память (blocks, права, Pre-Flight Check) | references/memory-protocol.md |
 | Уроки, авто-аудит ошибок | references/self-improvement.md |
 | Проверка фактов, уверенность, double-check | references/accuracy-protocol.md |
